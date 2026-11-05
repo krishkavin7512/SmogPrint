@@ -16,6 +16,7 @@ Factor analysis, Gaussian mixtures and hierarchical clustering, written from scr
 
 <img src="docs/screenshots/hero.jpg" alt="SmogPrint landing page" width="92%">
 
+**Live demo:** [https://smogprint.vercel.app](https://smogprint.vercel.app)<br>
 [The idea](#idea) · [The five factors](#factors) · [The tests](#tests) · [How it works](#how) · [Models](#models) · [What it cannot claim](#limits) · [Screenshots](#screenshots) · [Run it](#run)
 
 </div>
